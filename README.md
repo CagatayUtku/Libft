@@ -3,9 +3,7 @@ C programming can be very tedious when one doesn’t have access to the highly u
 
 ## 🗣️ About
 
-> _The aim of this project is to code a C library regrouping usual functions that you'll be allowed to use in all your other projects._
-
-For detailed information, refer to the [**subject of this project**](https://github.com/appinha/42cursus/tree/master/_PDFs).
+For detailed information, refer to the [**subject of this project**](https://github.com/CagatayUtku/Libft/).
 
 	🚀 TLDR: this project consists of coding basic C functions (see below), which are then compiled
 	into a library for use in other projects of the cursus.
