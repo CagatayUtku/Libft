@@ -10,13 +10,13 @@ For detailed information, refer to the [**subject of this project**](https://git
 
 ### Functions from `<ctype.h>` library
 
-* [`ft_isascii`](libft/ft_isascii.c)			- test for ASCII character.
-* [`ft_isalnum`](libft/ft_isalnum.c)			- alphanumeric character test.
-* [`ft_isalpha`](libft/ft_isalpha.c)			- alphabetic character test.
-* [`ft_isdigit`](libft/ft_isdigit.c)			- decimal-digit character test.
-* [`ft_isprint`](libft/ft_isprint.c)			- printing character test (space character inclusive).
-* [`ft_tolower`](libft/ft_tolower.c)			- upper case to lower case letter conversion.
-* [`ft_toupper`](libft/ft_toupper.c)			- lower case to upper case letter conversion.
+* [`ft_isascii`](libft/blob/main/ft_isascii.c)			- test for ASCII character.
+* [`ft_isalnum`](libft/blob/main/ft_isalnum.c)			- alphanumeric character test.
+* [`ft_isalpha`](libft/blob/main/ft_isalpha.c)			- alphabetic character test.
+* [`ft_isdigit`](libft/blob/main/ft_isdigit.c)			- decimal-digit character test.
+* [`ft_isprint`](libft/blob/main/ft_isprint.c)			- printing character test (space character inclusive).
+* [`ft_tolower`](libft/blob/main/ft_tolower.c)			- upper case to lower case letter conversion.
+* [`ft_toupper`](libft/blob/main/ft_toupper.c)			- lower case to upper case letter conversion.
 
 ### Functions from `<stdlib.h>` library
 
