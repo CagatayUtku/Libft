@@ -3,7 +3,7 @@ C programming can be very tedious when one doesn’t have access to the highly u
 
 ## 🗣️ About
 
-For detailed information, refer to the [**subject of this project**](https://github.com/CagatayUtku/Libft/).
+For detailed information, refer to the [**subject of this project**](https://github.com/CagatayUtku/Libft/blob/main/Libft-subject-en.pdf).
 
 	🚀 TLDR: this project consists of coding basic C functions (see below), which are then compiled
 	into a library for use in other projects of the cursus.
@@ -38,6 +38,7 @@ For detailed information, refer to the [**subject of this project**](https://git
 * [`ft_strchr`](./ft_strchr.c)				- locate character in string (first occurrence).
 * [`ft_strrchr`](./ft_strrchr.c)			- locate character in string (last occurence).
 * [`ft_strnstr`](./ft_strnstr.c)			- locate a substring in a string (size-bounded).
+* [`ft_striteri`](./ft_striteri.c)			- apply the function all the elements of string.
 * [`ft_strncmp`](./ft_strncmp.c)			- compare strings (size-bounded).
 * [`ft_strdup`](./ft_strdup.c)				- save a copy of a string (with malloc).
 * [`ft_strlcpy`](./ft_strlcpy.c)			- size-bounded string copying.
